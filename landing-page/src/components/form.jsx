@@ -3,7 +3,7 @@ function form() {
     return (
         <div className="d-flex form" >
             <div className=" pb-3">
-                <img className="form-img" src="https://picsum.photos/1000/700" alt="" />
+                <img style={{ width: "92%", height: "100%" }} src="https://picsum.photos/1000/700" alt="" />
             </div>
             <div className="d-flex flex-column text-white justify-content-around mb-3 w-50 p-5 ">
                 <p className="display-6 fw-semibold">Need an Electrician</p>
