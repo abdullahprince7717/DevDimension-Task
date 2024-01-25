@@ -7,6 +7,9 @@ import LatestProjects from './components/latestProjects'
 import Testimonials from './components/testimonials'
 import Benefits from './components/benefits'
 import Features from './components/features'
+import RequestQuote from './components/requestQuote'
+// import ContactUs from './components/contactUs'
+import Footer from './components/footer'
 function App() {
 
   return (
@@ -19,6 +22,9 @@ function App() {
       <Testimonials />
       <Benefits />
       <Features />
+      <RequestQuote />
+      {/* <ContactUs /> */}
+      <Footer />
     </div>
   )
 }
