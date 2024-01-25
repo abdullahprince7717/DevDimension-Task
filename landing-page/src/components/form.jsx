@@ -1,7 +1,7 @@
 
 function form() {
     return (
-        <div className="d-flex form " >
+        <div className="d-flex form" >
             <div className=" pb-3">
                 <img className="form-img" src="https://picsum.photos/1000/700" alt="" />
             </div>
