@@ -29,6 +29,10 @@
 
 }
 
+.nav-link:hover{
+    color: blue;
+}
+
 
 ::placeholder{
     color: aliceblue;

@@ -15,11 +15,11 @@ function App() {
   return (
 
     <div>
-      <nav id="navbar-example2" className="navbar navbar-light bg-light px-5 py-3">
-        <a className="navbar-brand" href="#">Navbar</a>
+      <nav id="navbar-example2" className="navbar navbar-light bg-light fixed-top px-5 py-3">
+        <a className="navbar-brand" href="#">Lead Page</a>
         <ul className="nav nav-pills">
           <li className="nav-item">
-            <a className="nav-link" href="#scrollspyHeading1">Home</a>
+            <a className="nav-link text-black" href="#scrollspyHeading1">Home</a>
           </li>
           <li className="nav-item">
             <a className="nav-link" href="#scrollspyHeading2">What we do</a>
