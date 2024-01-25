@@ -1,0 +1,27 @@
+.form{
+    padding-top: 70px;
+    background-color: #1E90FF
+}
+
+.form-control{
+    background-color: transparent;
+}
+
+.form-control:focus{
+    background-color: transparent;
+    color: aliceblue;
+    border-color: aliceblue;
+    box-shadow: none;
+}
+
+.form-img{
+    width: 90%; 
+}
+
+.navbar{
+    padding: 25px 10rem;
+}
+
+::placeholder{
+    color: aliceblue;
+}
